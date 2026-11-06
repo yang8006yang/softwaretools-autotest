@@ -3,7 +3,7 @@ name: Compile and Test Under Unity
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
